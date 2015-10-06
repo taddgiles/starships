@@ -1,0 +1,12 @@
+h1 Starships
+
+table
+  thead
+    tr
+      td Name
+      td Cost
+  tbody
+    - @starships.each do |starship|
+      tr
+        td = starship[:name]
+        td = starship[:cost_in_credits]
