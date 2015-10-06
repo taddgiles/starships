@@ -1,3 +1,3 @@
 # Star Wars
 
-[View Running Code](https://polar-ravine-3079.herokuapp.com)
+[Running Server](https://polar-ravine-3079.herokuapp.com)
